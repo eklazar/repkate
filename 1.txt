@@ -1,3 +1,4 @@
 - Hello Kate! How are u?
 - I'm fine! And you?
 - So so. Perfectly at home, not so good in the university.
+- What are you studying? 
